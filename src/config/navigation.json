@@ -1,0 +1,12 @@
+{
+  "links": [
+    {
+      "text": "Produtos",
+      "path": "/"
+    },
+    {
+      "text": "Contato",
+      "path": "/contato"
+    }
+  ]
+}
